@@ -29,4 +29,4 @@
 models2にグリッドサーチを行ったモデルの重みがbest_svr_model.pklという名前で保存されている。<br>
 -Autoformer(データの時系列性を考慮したモデル)<br>
 学習の中で一番精度がよかったモデルの重みをmodelsにbest_model.pthという名前で保存している。<br>
-またその際のoptimizer情報をmodelsのbest_optimizer.pthに保存している
+またその際のoptimizer情報をmodelsのbest_optimizer.pthに保存している。
